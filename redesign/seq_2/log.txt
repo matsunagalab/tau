@@ -1,0 +1,8 @@
+seed=0 model=model_1_ptm recycle=0 plddt=0.525 ptm=0.529 i_ptm=0.505 multi=0.510
+seed=0 model=model_1_ptm recycle=1 plddt=0.848 ptm=0.769 i_ptm=0.766 multi=0.766 rmsd_tol=1.861
+seed=0 model=model_1_ptm recycle=2 plddt=0.925 ptm=0.858 i_ptm=0.857 multi=0.857 rmsd_tol=1.927
+seed=0 model=model_1_ptm recycle=3 plddt=0.938 ptm=0.871 i_ptm=0.871 multi=0.871 rmsd_tol=0.209
+seed=0 model=model_2_ptm recycle=0 plddt=0.566 ptm=0.505 i_ptm=0.493 multi=0.495
+seed=0 model=model_2_ptm recycle=1 plddt=0.861 ptm=0.802 i_ptm=0.798 multi=0.799 rmsd_tol=1.891
+seed=0 model=model_2_ptm recycle=2 plddt=0.910 ptm=0.832 i_ptm=0.831 multi=0.831 rmsd_tol=0.905
+seed=0 model=model_2_ptm recycle=3 plddt=0.925 ptm=0.839 i_ptm=0.838 multi=0.838 rmsd_tol=0.356
